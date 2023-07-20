@@ -3,3 +3,6 @@ def goodFunc():
 
 def testFunc():
     print("Zoo")
+
+def normalFunc():
+    print("Banana")
